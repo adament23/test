@@ -1,6 +1,0 @@
-
-{{#user}}
-Name: kalpana Sharma
-Skills: HTML,CSS,ReactJS,NodeJS, MONGODB,ReduxToolKit
-Email: kalpana.sharma555@gmail.com, sharmaadament23@gmail.com
-{{/user}}
